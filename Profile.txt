@@ -1,6 +1,2 @@
 Ngoc Dung Professor
-<<<<<<< HEAD
-A Dung~ Khong Biet gi` va Push
-=======
-Em Cuong cung la professor ne`
->>>>>>> 12ec227f71b35612ec00cf546709c674d1fd64e3
+Anh Dung lai bi Conflict
