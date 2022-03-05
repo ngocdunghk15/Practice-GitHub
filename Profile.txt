@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-Ngoc Dung Professor
-Anh Dung lai bi Conflict
-=======
-Ngoc Cuong Professor
->>>>>>> 6e15a86d6fa39dd68f2a0cab1b9185f2acf03cc7
